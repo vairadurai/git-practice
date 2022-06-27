@@ -1,0 +1,58 @@
+.container{
+    width: 100%;
+    margin: auto;
+}
+h2  {
+    color: #EA3D39;
+}
+h1{
+    color: #EA3D39;  
+}
+.left{
+    color: #EA3D39;  
+}
+ol li img{
+    width: 13px;
+    
+}
+ ol li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #EA3D39;
+}
+ol{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Education{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.left{
+    font-size: large;
+}
+.Certification{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+.skills{
+    
+    display: flex;
+    justify-content: space-evenly;
+    padding:10px;
+    flex-wrap: wrap;
+    gap:1rem ;   
+}
+.skill{
+    border: solid 2px #EA3D39;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    background-color: #EA3D39;
+    color:white;
+}
+
